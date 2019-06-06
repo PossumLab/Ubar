@@ -1,0 +1,16 @@
+Participants:
+- DomainObjectId: diver
+  StateIds: []
+  EventStates:
+  - EventId: diver.signed on
+  - StateId: diver.signed on
+- DomainObjectId: ride
+  StateIds: []
+  EventStates: []
+- DomainObjectId: user
+  StateIds: []
+  EventStates:
+  - StateId: user.signed on
+Rules: []
+Key: driver-sign-on
+Name: Driver Sign On
