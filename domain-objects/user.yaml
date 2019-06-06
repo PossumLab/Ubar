@@ -1,7 +1,9 @@
 Properties: []
 Templates: []
-Events: []
-States: []
+Events:
+- Name: Requesting Ride
+States:
+- Name: Signed On
 ExistingDomainObjects: []
 Key: user
 Name: User
