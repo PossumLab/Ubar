@@ -2,7 +2,9 @@ Properties: []
 Templates: []
 Events:
 - Name: Accepted
-States: []
+- Name: Canceled
+States:
+- Name: Dispatched
 ExistingDomainObjects: []
 Key: ride
 Name: Ride
