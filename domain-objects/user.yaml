@@ -1,6 +1,7 @@
 Properties: []
 Templates: []
 Events:
+- Name: Requesting Cancel
 - Name: Requesting Ride
 States:
 - Name: Signed On
