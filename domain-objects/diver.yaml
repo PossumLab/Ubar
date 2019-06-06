@@ -1,6 +1,7 @@
 Properties: []
 Templates: []
 Events:
+- Name: Disconnected
 - Name: Polled
 - Name: Signed On
 States:
