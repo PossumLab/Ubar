@@ -1,0 +1,17 @@
+Participants:
+- DomainObjectId: diver
+  StateIds: []
+  EventStates:
+  - EventId: diver.polled
+  - StateId: diver.dispatched
+- DomainObjectId: ride
+  StateIds: []
+  EventStates:
+  - EventId: ride.accepted
+- DomainObjectId: user
+  StateIds: []
+  EventStates:
+  - EventId: user.requesting ride
+Rules: []
+Key: assigning-ride
+Name: Assigning Ride
