@@ -1,4 +1,12 @@
-WorkflowIds: []
-Participants: []
+WorkflowIds:
+- driver-sign-on
+- assigning-ride
+Participants:
+- DomainObjectId: diver
+  StateIds: []
+- DomainObjectId: ride
+  StateIds: []
+- DomainObjectId: user
+  StateIds: []
 Key: simple-ride
 Name: Simple Ride
